@@ -1,5 +1,5 @@
 <?php  
     echo "Ola mundo PHP";
-    echo "<BR>";
+    echo "<BR>";    
     echo "senac";
 ?>
